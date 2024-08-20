@@ -10,9 +10,6 @@ Welcome to my personal portfolio website! This site showcases my skills, project
 - [About](#about)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Getting Started](#getting-started)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
 
@@ -33,22 +30,6 @@ This portfolio is designed and developed to present my work and skills as a Fron
 - **JavaScript (ES6+):** Interactive features and dynamic content.
 - **GitHub Pages:** Deployed the portfolio for live access.
 
-## Project Structure
-
-```
-.
-├── index.html        # Main HTML file
-├── css/              # Folder containing all CSS files
-│   └── styles.css
-├── js/               # Folder containing all JavaScript files
-│   └── scripts.js
-├── assets/           # Folder for images, fonts, etc.
-└── README.md         # This file
-```
-
-## Contributing
-
-If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. Please ensure your code follows the existing style and is well-documented.
 
 ## License
 
@@ -56,8 +37,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/yourprofile) or [Email](mailto:your-email@example.com).
+Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/mrityunjay02) or [Email](mailto:mrityunjaysoni02@gmail.com).
 
 ---
-
-This template should give a good starting point for documenting your portfolio project. You can customize it further as needed.
