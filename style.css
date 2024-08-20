@@ -1,3 +1,24 @@
+/* Main Section Background */
+.main {
+    background-image: url('/images/bg.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+/* Additional Media Query for Mobile */
+@media (max-width: 768px) {
+    .main {
+        background-size: contain;
+        background-position: top center;
+    }
+}
+
+/* Header */
+.header {
+    padding: 2rem 0;
+}
+
 /* --------------------------------- */
 /* ----- Basic Setup -----*/
 /* --------------------------------- */
