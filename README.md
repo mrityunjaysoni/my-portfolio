@@ -3,7 +3,7 @@
 
 Welcome to my personal portfolio website! This site showcases my skills, projects, and experiences as a Frontend Web Developer.
 
-![Portfolio Preview](/assets/images/myportfolio-gif.gif)
+![Portfolio Preview](/assets/images/myportfolio--gif.gif)
 
 ## Table of Contents
 
